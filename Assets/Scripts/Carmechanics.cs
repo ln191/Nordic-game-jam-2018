@@ -25,9 +25,9 @@ public class Carmechanics : MonoBehaviour {
 
                 RaycastHit2D[] hits = Physics2D.RaycastAll(transform.position, Vector2.right, cableLenght);
                 Debug.Log(hits.Length);
-                    if (hits.Length > 0 && hits[0].collider != null)
+                    if (hits.Length > 1 && hits[1].collider != null)
                     {
-                        RaycastHit2D hit = hits[0];
+                        RaycastHit2D hit = hits[1];
                         if (hit.collider.gameObject.tag == "Wall")
                         {
                             Debug.Log("hit");
