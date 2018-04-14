@@ -53,6 +53,7 @@ public class Carmechanics : MonoBehaviour {
                 hingeJoint.enabled = false;
                 hingeJoint.anchor = new Vector2(0f, 0f);
                 isAnchoring = false;
+                GetComponent<Rigidbody2D>().angularVelocity = 0;
             }
         }
 
