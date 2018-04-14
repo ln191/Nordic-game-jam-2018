@@ -1,21 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @munkbusiness
-Sign out
-3
-0 0 ln191/Nordic-game-jam-2018
- Code  Issues 1  Pull requests 0  Projects 0  Wiki  Insights
-Nordic-game-jam-2018/Assets/Scenes/test.unity
-1856e3d  11 minutes ago
-@kirillmikhel kirillmikhel Update scene
-@kirillmikhel @calmaty @munkbusiness
-     
-631 lines (630 sloc)  16.2 KB
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!29 &1
@@ -646,16 +628,3 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
-Press h to open a hovercard with more details.
