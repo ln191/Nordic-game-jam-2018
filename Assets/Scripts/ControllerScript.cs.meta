@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c18d2c1d3d95eed40b8b57a580d12c9c
+timeCreated: 1523697231
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - carObject: {fileID: 1329093705838132, guid: 299bd6f587f915847a8a431125f1c7d7,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
